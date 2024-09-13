@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# wget -qO- https://raw.githubusercontent.com/ngxson/public-assets/main/install-windows-gcp.sh | sudo bash
+# wget -qO- https://raw.githubusercontent.com/huynguyen2992008/concac/main/win10ggcloud.sh | sudo bash
 
 IMAGE_URL="http://drive.muavps.net/windows/windows10ProFull.gz"
 
